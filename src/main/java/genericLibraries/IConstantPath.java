@@ -1,0 +1,13 @@
+package genericLibraries;
+
+/**
+ * This interface is contains all the external file paths
+ * @author Deepika Bharade
+ */
+public interface IConstantPath 
+{
+	//we will store file paths variables 
+	//Static interface
+	String PROPERTIES_PATH = "./src/test/resources/commonData.properties";
+	String EXCEL_PATH = "./src/test/resources/SkillRaryTestData.xlsx";
+}
