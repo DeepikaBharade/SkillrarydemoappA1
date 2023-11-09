@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import genericLibraries.BaseClass;
-
+//This testScript is Success
 public class CreateCategoryTest extends BaseClass
 {
 	@Test
